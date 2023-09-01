@@ -1,0 +1,117 @@
+the west gate,Building secretariats,85.01
+the west gate,Science college,77.35
+Science college,the west gate,77.35
+Science college,clinic,81.58
+Science college,Administration building,66.52
+clinic,Science college,81.58
+clinic,library,35.95
+clinic,Graduate Studies and Research college,57.23
+clinic,Administration building,99.02
+Graduate Studies and Research college,Business and Economics college one,71.56
+Graduate Studies and Research college,clinic,57.23
+Graduate Studies and Research college,library,35.85
+PariKng of Business college,library,85.10
+PariKng of Business college,Business and Economics college one,43.62
+PariKng of Business college,Graduate Studies and Research college,72.05
+Business and Economics college one,PariKng of Business college,43.62
+Business and Economics college one,Business and Economics college two,40.25
+Business and Economics college one,library,95.68
+Business and Economics college two,Business and Economics college one,40.25
+Business and Economics college two,library,126.31
+library,clinic,35.95
+library,Graduate Studies and Research college,35.85
+library,PariKng of Business college,85.10
+library,Business and Economics college one,95.68
+library,Business and Economics college two,126.31
+library,parkin for Kamal Naser,75.63
+Building secretariats,Services building,40.05
+Building secretariats,the west gate,85.01
+Building secretariats,College of Engineering,93.99
+Services building,Building secretariats,40.05
+Services building,Mounir Atallah Stadium,128.62
+Mounir Atallah Stadium,College of Sports,125.69
+Mounir Atallah Stadium,Services building,128.62
+Mounir Atallah Stadium,Sports grounds,115.32
+Sports grounds,Mounir Atallah Stadium,115.32
+Sports grounds,College of Sports,130.08
+Sports grounds,Collage of Arts,95.25
+Administration building,clinic,99.02
+Administration building,Science college,66.52
+Administration building,College of Engineering,35.15
+Administration building,Administration building crossroads,10.23
+College of Engineering,Administration building,35.15
+College of Engineering,Administration building crossroads,18.87
+College of Engineering,Engineering concerns,48.58
+Administration building crossroads,Administration building,10.23
+Administration building crossroads,College of Engineering,18.87
+Administration building crossroads,Registration building,95.53
+Administration building crossroads,Engineering concerns,56.89
+Collage of Arts,Sports grounds,95.25
+Collage of Arts,College of Pharmacy and Nursing,96.48
+College of Pharmacy and Nursing,College of Media,53.89
+College of Pharmacy and Nursing,Collage of Arts,69.48
+College of Pharmacy and Nursing,Birzeit University Stage,113.69
+College of Pharmacy and Nursing,Birzeit University Museum,121.36
+eastern entrance,Birzeit University Museum,112.62
+eastern entrance,Birzeit University Stage,44.79
+eastern entrance,IT collage,54.39
+Birzeit University Museum,eastern entrance,112.62
+Birzeit University Museum,College of Pharmacy and Nursing,121.36
+Birzeit University Stage,eastern entrance,44.79
+Birzeit University Stage,IT collage,51.65
+Birzeit University Stage,College of Media,92.03
+Birzeit University Stage,College of Pharmacy and Nursing,110.61
+IT collage,eastern entrance,54.39
+IT collage,Birzeit University Stage,51.95
+IT collage,Najad Zeni Building,33.76
+Najad Zeni Building,IT collage,33.76
+Najad Zeni Building,college of Education,68.69
+college of Education,Najad Zeni Building,68.69
+college of Education,The new law collage,76.78
+The new law collage,Book Store,48.41
+The new law collage,college of Education,76.78
+Book Store,The new law collage,48.41
+Book Store,Deanship of Student Affairs building,56.25
+Book Store,Presidency University,96.28
+Book Store,Water tank,186.69
+Water tank,Presidency University,74.89
+Water tank,Book Store,186.69
+Presidency University,Water tank,74.89
+Presidency University,Book Store,96.28
+Deanship of Student Affairs building,Book Store,56.25
+Deanship of Student Affairs building,The old law building,36.40
+The old law building,Deanship of Student Affairs building,36.40
+The old law building,parkin for Kamal Naser,44.02
+The old law building,Kamal Nasser Building,66.26
+The old law building,Registration building,64.56
+parkin for Kamal Naser,The old law building,44.02
+parkin for Kamal Naser,Kamal Nasser Building,32.22
+parkin for Kamal Naser,Registration building,36.55
+Kamal Nasser Building,Registration building,12.49
+Kamal Nasser Building,parkin for Kamal Naser,32.55
+Kamal Nasser Building,The old law building,66.26
+Registration building,parkin for Kamal Naser,36.55
+Registration building,Kamal Nasser Building,12.49
+Registration building,The old law building,64.56
+Registration building,Administration building crossroads,95.53
+Engineering concerns,Student Council,39.23
+Engineering concerns,College of Engineering,48.58
+Engineering concerns,Administration building crossroads,56.89
+Student Council,College of Sports,50.15
+Student Council,Engineering concerns,39.23
+Student Council,Administration building crossroads,56.89
+College of Sports,Student Council,50.15
+College of Sports,college of Literature,82.18
+College of Sports,Mounir Atallah Stadium,125.69
+College of Sports,Sports grounds,130.08
+college of Literature,College of Sports,82.18
+college of Literature,College of Womens Studies,64.69
+College of Womens Studies,college of Literature,64.69
+College of Womens Studies,College of Media,41.87
+College of Womens Studies,Development College,32.69
+Development College,College of Womens Studies,32.69
+Development College,College of Media,34.28
+College of Media,Development College,34.28
+College of Media,College of Womens Studies,41.28
+College of Media,College of Pharmacy and Nursing,53.89
+College of Media,Birzeit University Stage,92.03

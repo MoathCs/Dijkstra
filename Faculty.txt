@@ -1,0 +1,39 @@
+the west gate,187,533
+Science college,311,401
+clinic,385,343
+library,387,299
+Graduate Studies and Research college,430,304
+Business and Economics college one,482,244
+Business and Economics college two,501,224
+PariKng of Business college,459,272
+Building secretariats,77,460
+Services building,63,408
+College of Engineering,202,346
+Administration building,256,353
+Administration building crossroads,230,332
+Kamal Nasser Building,315,290
+Registration building,289,289
+parkin for Kamal Naser,340,268
+The old law building,302,241
+Deanship of Student Affairs building,256,224
+Book Store,263,184
+The new law collage,291,135
+college of Education,298,107
+Najad Zeni Building,300,85
+IT collage,288,74
+eastern entrance,284,54
+Water tank,354,114
+Presidency University,373,175
+Engineering concerns,183,298
+Student Council,197,247
+College of Sports,178,211
+college of Literature,217,151
+College of Womens Studies,229,118
+College of Media,245,94
+Development College,260,100
+Birzeit University Stage,243,68
+Birzeit University Museum,174,44
+College of Pharmacy and Nursing,175,110
+Collage of Arts,120,143
+Mounir Atallah Stadium,77,242
+Sports grounds,81,198
